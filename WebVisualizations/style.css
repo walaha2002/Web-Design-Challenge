@@ -3,7 +3,9 @@
   padding-bottom: 3rem;
   margin-bottom: 0;
   background-color: #fff;
+  align-content:right;
 }
+
 @media (min-width: 768px) {
   .jumbotron {
     padding-top: 6rem;
@@ -16,7 +18,9 @@
 }
 
 .jumbotron h1 {
-  font-weight: 300;
+  font-weight: 500;
+  justify-content: center;
+ 
 }
 
 .jumbotron .container {
